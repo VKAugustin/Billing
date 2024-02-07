@@ -32,12 +32,12 @@ Before running the project, make sure you have the following installed:
 
 1. Clone the repository:
 
-   
-   git clone https://github.com/VKAugustin/Billing.git
+    git clone https://github.com/VKAugustin/Billing.git
 
     Navigate to the project directory: cd bill-slip-generator
 
-Run the application: python bill.py
+Run the application:
+    python bill.py
 
 Usage
 
